@@ -39,4 +39,4 @@ The **general guidelines** and additional info about the challenge can be found 
   * .
   * 50 D50 50DaysOfUdacity
 
-See an example of a daily update [here]().
+See an example of a daily update [here](https://github.com/ulrichmabou/50DaysOfUdacity-UlrichMabou/blob/master/01%20D1%2050DaysOfUdacity.md).
