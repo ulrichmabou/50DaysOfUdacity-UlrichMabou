@@ -25,7 +25,7 @@ The **general guidelines** and additional info about the challenge can be found 
 
 ## How to Use this Template
 
-* Click on the **Use this template** button
+* Click on the **Use this template** button at the top of the [template](https://github.com/ulrichmabou/50DaysOfUdacity.
 ![use template button](https://i.imgur.com/h5SonV7.png)
 
 * Create your **own repo** from the [template](https://github.com/ulrichmabou/50DaysOfUdacity) by entering a **Repository name** (e.g. 50DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button
