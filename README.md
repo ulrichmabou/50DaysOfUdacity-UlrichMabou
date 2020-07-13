@@ -28,7 +28,7 @@ The **general guidelines** and additional info about the challenge can be found 
 * Click on the **Use this template** button
 ![use template button](https://i.imgur.com/h5SonV7.png)
 
-* Create your **own repo** from the template by entering a **Repository name** (e.g. 50DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button
+* Create your **own repo** from the [template](https://github.com/ulrichmabou/50DaysOfUdacity) by entering a **Repository name** (e.g. 50DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button
 ![create repo from template](https://i.imgur.com/X7A4vlG.png)
 
 * Add your own files everyday and including the link to your repo when sharing your daily update in the **#50daysofudacity channel**. It's recommendated to **add a new markdown file for each daily update**. Example: 
